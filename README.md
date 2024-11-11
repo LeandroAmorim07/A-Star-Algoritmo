@@ -1,2 +1,3 @@
-# A-Star-Algoritmo
-Trabalho na Matéria de Programação Orientada a Objetos 1, criação de classes com heranças e poliformismo em uma batalha de raças, segundo o jogo StarCraft.
+#Algortimo a Estrela proposto como tarefa da disciplina de Tópicos Especiais em Programação. Código feito em Linguagem C, mas devido ao uso de algumas funções apenas presentes no C++ foi compilado por ele.
+
+O código funciona com um arquivo txt que é o mapa definido para criação do caminho mais curto.
